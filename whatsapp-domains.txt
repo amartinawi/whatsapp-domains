@@ -1,11 +1,3 @@
-# WhatsApp known domains
-# Domains and hostnames used by or associated with WhatsApp services
-# (messaging, web client, media CDN, calls, business API, links, brand sites).
-# Sources: blocklistproject/Lists, jmdugan/blocklists, sefinek/Sefinek-Blocklist-Collection,
-#          v2fly/domain-list-community, blackmatrix7/ios_rule_script
-# Updated: 2026-09-27
-# Total: 260
-
 cdninstagram.com
 facebook.com
 facebook.net
