@@ -4,8 +4,13 @@
 # Sources: blocklistproject/Lists, jmdugan/blocklists, sefinek/Sefinek-Blocklist-Collection,
 #          v2fly/domain-list-community, blackmatrix7/ios_rule_script
 # Updated: 2026-09-27
-# Total: 242
+# Total: 252
 
+facebook.com
+facebook.net
+fbcdn.net
+fb.com
+fbsbx.com
 wa.me
 whatsapp.biz
 whatsappbrand.com
@@ -35,6 +40,7 @@ dev-web-beta.whatsapp.com
 dev-web.whatsapp.com
 dit.whatsapp.net
 dyn.web.whatsapp.com
+dyn.whatsapp.net
 e10.whatsapp.net
 e11.whatsapp.net
 e12.whatsapp.net
@@ -74,6 +80,7 @@ graph.whatsapp.net
 g.whatsapp.net
 lerequest-lookaside.whatsapp.com
 lerequest.whatsapp.com
+lookaside.fbsbx.com
 media-ams3-1.cdn.whatsapp.net
 media-amt2-1.cdn.whatsapp.net
 media-arn2-1.cdn.whatsapp.net
@@ -159,12 +166,15 @@ pps.whatsapp.net
 privatestats.whatsapp.net
 ratings.whatsapp.com
 scontent.whatsapp.net
+sip.whatsapp.net
 sjc.whatsapp.com
 static.whatsapp.net
+stun.whatsapp.net
 support.whatsapp.com
 test-web.whatsapp.com
 translate-dev.whatsapp.com
 translate.whatsapp.com
+turn.whatsapp.net
 up.web.whatsapp.com
 v.whatsapp.com
 v.whatsapp.net
