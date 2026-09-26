@@ -4,13 +4,14 @@
 # Sources: blocklistproject/Lists, jmdugan/blocklists, sefinek/Sefinek-Blocklist-Collection,
 #          v2fly/domain-list-community, blackmatrix7/ios_rule_script
 # Updated: 2026-09-27
-# Total: 255
+# Total: 257
 
 facebook.com
 facebook.net
 fbcdn.net
 fb.com
 fbsbx.com
+wa.com
 wa.me
 whatsapp.biz
 whatsappbrand.com
@@ -20,6 +21,7 @@ whatsapp.info
 whatsapp.net
 whatsapp.org
 whatsapp.tv
+wl.co
 account.whatsapp.com
 alpha.whatsapp.com
 api.whatsapp.com
