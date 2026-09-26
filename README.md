@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/amartinawi/whatsapp-domains/main/whatsapp-doma
 ## Notes
 
 - Root domains (`whatsapp.com`, `whatsapp.net`, `wa.me`, ...) are listed first. Matching on them as suffixes covers most traffic; the explicit hostnames are there for tools that need exact matches.
-- WhatsApp media, calls and API integrations also rely on Meta infrastructure (`facebook.com`, `fb.com`, `facebook.net`, `fbcdn.net`, `fbsbx.com`, `graph.facebook.com`). Treat these as suffixes (`*.fbcdn.net`, `*.fbsbx.com`). Blocking or routing them also affects Facebook/Instagram.
+- WhatsApp media, calls and API integrations also rely on Meta infrastructure (`facebook.com`, `fb.com`, `facebook.net`, `fbcdn.net`, `fbcdn.com`, `fbsbx.com`, `instagram.com`, `cdninstagram.com`). Root domains are meant as suffixes (`*.fbcdn.net` etc.). Blocking or routing them also affects Facebook/Instagram.
 - WhatsApp also connects to Meta-owned IP ranges directly, so a domain list alone won't fully block or route it.
 
 ## Sources

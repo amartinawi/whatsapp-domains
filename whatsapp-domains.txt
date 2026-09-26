@@ -4,13 +4,16 @@
 # Sources: blocklistproject/Lists, jmdugan/blocklists, sefinek/Sefinek-Blocklist-Collection,
 #          v2fly/domain-list-community, blackmatrix7/ios_rule_script
 # Updated: 2026-09-27
-# Total: 257
+# Total: 260
 
+cdninstagram.com
 facebook.com
 facebook.net
+fbcdn.com
 fbcdn.net
 fb.com
 fbsbx.com
+instagram.com
 wa.com
 wa.me
 whatsapp.biz
