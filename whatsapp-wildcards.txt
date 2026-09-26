@@ -1,0 +1,13 @@
+# WhatsApp suffix / wildcard rules
+# Use these where your tool supports wildcards; they cover the regional
+# media nodes that the exact-host list in whatsapp-domains.txt can't keep up with.
+# Updated: 2026-09-27
+
+*.whatsapp.com
+*.whatsapp.net
+*.cdn.whatsapp.net
+*.fna.whatsapp.net
+*.snr.whatsapp.net
+*.whatsapp.biz
+*.wa.me
+*.wl.co
